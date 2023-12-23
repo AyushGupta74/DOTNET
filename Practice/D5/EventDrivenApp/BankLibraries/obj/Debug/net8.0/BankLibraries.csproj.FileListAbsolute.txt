@@ -1,0 +1,11 @@
+c:\Users\IET\Desktop\AY\Sept23\Practice\D5\EventDrivenApp\BankLibraries\obj\Debug\net8.0\BankLibraries.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\IET\Desktop\AY\Sept23\Practice\D5\EventDrivenApp\BankLibraries\obj\Debug\net8.0\BankLibraries.AssemblyInfoInputs.cache
+c:\Users\IET\Desktop\AY\Sept23\Practice\D5\EventDrivenApp\BankLibraries\obj\Debug\net8.0\BankLibraries.AssemblyInfo.cs
+c:\Users\IET\Desktop\AY\Sept23\Practice\D5\EventDrivenApp\BankLibraries\obj\Debug\net8.0\BankLibraries.csproj.CoreCompileInputs.cache
+c:\Users\IET\Desktop\AY\Sept23\Practice\D5\EventDrivenApp\BankLibraries\bin\Debug\net8.0\BankLibraries.deps.json
+c:\Users\IET\Desktop\AY\Sept23\Practice\D5\EventDrivenApp\BankLibraries\bin\Debug\net8.0\BankLibraries.dll
+c:\Users\IET\Desktop\AY\Sept23\Practice\D5\EventDrivenApp\BankLibraries\bin\Debug\net8.0\BankLibraries.pdb
+c:\Users\IET\Desktop\AY\Sept23\Practice\D5\EventDrivenApp\BankLibraries\obj\Debug\net8.0\BankLibraries.dll
+c:\Users\IET\Desktop\AY\Sept23\Practice\D5\EventDrivenApp\BankLibraries\obj\Debug\net8.0\refint\BankLibraries.dll
+c:\Users\IET\Desktop\AY\Sept23\Practice\D5\EventDrivenApp\BankLibraries\obj\Debug\net8.0\BankLibraries.pdb
+c:\Users\IET\Desktop\AY\Sept23\Practice\D5\EventDrivenApp\BankLibraries\obj\Debug\net8.0\ref\BankLibraries.dll
