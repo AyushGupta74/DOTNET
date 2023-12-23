@@ -1,0 +1,14 @@
+﻿@using Individual;
+@{
+    ViewData["Title"] = "Home";
+    Person p = new Person();
+    p.firstName= "Ayush";
+    p.lastName= "Gupta";
+}
+
+<div class="text-center">
+    <h1>@ViewData["Title"]</h1>
+    <h1 class="display-4">Welcome @p.firstName @p.lastName</h1>
+    <p>Your Site for Top FourWheels</p>
+    <img src="/Images/top.jpg" alt="Chiron" height="400px" width="600px">
+</div>

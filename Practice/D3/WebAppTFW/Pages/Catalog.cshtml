@@ -1,0 +1,28 @@
+@page
+@using Car;
+<!-- RazorPage -->
+@{
+    FourWheels fw = new FourWheels();
+    fw.prodname = "Bugatti Chiron Pur Sport Grand Prix";
+    fw.prodcompany = "Bugatti Automobiles S.A.S";
+    fw.prodengine = "8.0 L (488 cu in) quad-turbocharged WR16";
+    fw.prodcost = 20000000;
+    fw.quantity = 1;
+    fw.imageurl = "/Images/chiron.webp";
+}
+
+<div class="text-center">
+    <h1>Bugatti Chiron</h1>
+    <hr>
+    <img src="/Images/chiron.webp" alt="Chiron" height="300px" width="450px"/>
+    @* <img src="/Images/frontangle.webp" alt="Chiron" height="210px" width="280px"/>
+    <img src="/Images/backside.webp" alt="Chiron" height="210px" width="280px"/> *@
+    <hr>
+    <p>Name: @fw.prodname<p/>
+    <p>Company: @fw.prodcompany<p/>
+    <p>Engine: @fw.prodengine<p/>
+    <p>Cost: @fw.prodcost<p/>
+    <p>Quantity: @fw.quantity<p/>
+    <hr>
+    <button>Order</button>
+</div>

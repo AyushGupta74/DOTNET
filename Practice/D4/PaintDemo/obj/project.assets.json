@@ -1,0 +1,92 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "Libraries/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Libraries.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Libraries.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Libraries/1.0.0": {
+      "type": "project",
+      "path": "../Libraries/Libraries.csproj",
+      "msbuildProject": "../Libraries/Libraries.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "Libraries >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\IET\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "c:\\Users\\IET\\Desktop\\AY\\Sept23\\Practice\\D4\\PaintDemo\\PaintDemo.csproj",
+      "projectName": "PaintDemo",
+      "projectPath": "c:\\Users\\IET\\Desktop\\AY\\Sept23\\Practice\\D4\\PaintDemo\\PaintDemo.csproj",
+      "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\IET\\Desktop\\AY\\Sept23\\Practice\\D4\\PaintDemo\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {
+            "c:\\Users\\IET\\Desktop\\AY\\Sept23\\Practice\\D4\\Libraries\\Libraries.csproj": {
+              "projectPath": "c:\\Users\\IET\\Desktop\\AY\\Sept23\\Practice\\D4\\Libraries\\Libraries.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

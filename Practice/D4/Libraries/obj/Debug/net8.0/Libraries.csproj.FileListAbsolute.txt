@@ -1,0 +1,11 @@
+c:\Users\IET\Desktop\AY\Sept23\Practice\D4\Libraries\obj\Debug\net8.0\Libraries.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\IET\Desktop\AY\Sept23\Practice\D4\Libraries\obj\Debug\net8.0\Libraries.AssemblyInfoInputs.cache
+c:\Users\IET\Desktop\AY\Sept23\Practice\D4\Libraries\obj\Debug\net8.0\Libraries.AssemblyInfo.cs
+c:\Users\IET\Desktop\AY\Sept23\Practice\D4\Libraries\obj\Debug\net8.0\Libraries.csproj.CoreCompileInputs.cache
+c:\Users\IET\Desktop\AY\Sept23\Practice\D4\Libraries\bin\Debug\net8.0\Libraries.deps.json
+c:\Users\IET\Desktop\AY\Sept23\Practice\D4\Libraries\bin\Debug\net8.0\Libraries.dll
+c:\Users\IET\Desktop\AY\Sept23\Practice\D4\Libraries\bin\Debug\net8.0\Libraries.pdb
+c:\Users\IET\Desktop\AY\Sept23\Practice\D4\Libraries\obj\Debug\net8.0\Libraries.dll
+c:\Users\IET\Desktop\AY\Sept23\Practice\D4\Libraries\obj\Debug\net8.0\refint\Libraries.dll
+c:\Users\IET\Desktop\AY\Sept23\Practice\D4\Libraries\obj\Debug\net8.0\Libraries.pdb
+c:\Users\IET\Desktop\AY\Sept23\Practice\D4\Libraries\obj\Debug\net8.0\ref\Libraries.dll
