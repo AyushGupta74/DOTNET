@@ -1,0 +1,2 @@
+create table product(id int, name varchar(10), price double, quantity int);
+INSERT INTO product (id, name, price, quantity) VALUES (1, 'Product1', 10.5, 100), (2, 'Product2', 20.3, 150), (3, 'Product3', 15.2, 200); 
