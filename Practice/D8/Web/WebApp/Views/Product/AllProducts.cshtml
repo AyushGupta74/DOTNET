@@ -1,0 +1,38 @@
+@using System.Collections.Generic;
+@using BOL;
+
+@{
+    ViewData["Title"] = "All Products";
+}
+
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+</style>
+<div align= "center">
+    <h1 class="display-4">All Products</h1>
+    @{
+        List<Product> list = (List<Product>)ViewData["allProducts"];
+            <table>
+                <thead>
+                    <tr>
+                        <th>PID</th>
+                        <th>TITLE</th>
+                        <th>UNITPRICE</th>
+                        <th>COMPANY</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach(Product p in list){
+                    <tr>
+                        <td>@p.PID</td>
+                        <td>@p.TITLE</td>
+                        <td>@p.UNITPRICE</td>
+                        <td>@p.COMPANY</td>
+                    </tr>
+                    }
+                </tbody>
+            </table>
+    }
+</div>

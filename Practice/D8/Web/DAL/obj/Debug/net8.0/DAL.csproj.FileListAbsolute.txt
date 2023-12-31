@@ -1,0 +1,15 @@
+e:\Dotnet\Practice\D8\Web\DAL\bin\Debug\net8.0\DAL.deps.json
+e:\Dotnet\Practice\D8\Web\DAL\bin\Debug\net8.0\DAL.dll
+e:\Dotnet\Practice\D8\Web\DAL\bin\Debug\net8.0\DAL.pdb
+e:\Dotnet\Practice\D8\Web\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+e:\Dotnet\Practice\D8\Web\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+e:\Dotnet\Practice\D8\Web\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+e:\Dotnet\Practice\D8\Web\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+e:\Dotnet\Practice\D8\Web\DAL\obj\Debug\net8.0\DAL.dll
+e:\Dotnet\Practice\D8\Web\DAL\obj\Debug\net8.0\refint\DAL.dll
+e:\Dotnet\Practice\D8\Web\DAL\obj\Debug\net8.0\DAL.pdb
+e:\Dotnet\Practice\D8\Web\DAL\obj\Debug\net8.0\ref\DAL.dll
+E:\Dotnet\Practice\D8\Web\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+E:\Dotnet\Practice\D8\Web\DAL\bin\Debug\net8.0\BOL.dll
+E:\Dotnet\Practice\D8\Web\DAL\bin\Debug\net8.0\BOL.pdb
+E:\Dotnet\Practice\D8\Web\DAL\obj\Debug\net8.0\DAL.csproj.CopyComplete
