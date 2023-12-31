@@ -1,0 +1,6 @@
+@PlainWebAPI_HostAddress = http://localhost:5293
+
+GET {{PlainWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
