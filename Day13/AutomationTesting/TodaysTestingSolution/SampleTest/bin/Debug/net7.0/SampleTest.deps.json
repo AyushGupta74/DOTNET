@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "SampleTest/1.0.0": {
+        "dependencies": {
+          "AUTLib": "1.0.0"
+        },
+        "runtime": {
+          "SampleTest.dll": {}
+        }
+      },
+      "AUTLib/1.0.0": {
+        "runtime": {
+          "AUTLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SampleTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AUTLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
