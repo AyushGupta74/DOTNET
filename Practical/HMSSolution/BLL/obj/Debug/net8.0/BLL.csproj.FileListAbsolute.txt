@@ -1,0 +1,17 @@
+c:\Users\IET\Desktop\Practical\HMSSolution\BLL\bin\Debug\net8.0\BLL.deps.json
+c:\Users\IET\Desktop\Practical\HMSSolution\BLL\bin\Debug\net8.0\BLL.dll
+c:\Users\IET\Desktop\Practical\HMSSolution\BLL\bin\Debug\net8.0\BLL.pdb
+c:\Users\IET\Desktop\Practical\HMSSolution\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\IET\Desktop\Practical\HMSSolution\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+c:\Users\IET\Desktop\Practical\HMSSolution\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+c:\Users\IET\Desktop\Practical\HMSSolution\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+c:\Users\IET\Desktop\Practical\HMSSolution\BLL\obj\Debug\net8.0\BLL.dll
+c:\Users\IET\Desktop\Practical\HMSSolution\BLL\obj\Debug\net8.0\refint\BLL.dll
+c:\Users\IET\Desktop\Practical\HMSSolution\BLL\obj\Debug\net8.0\BLL.pdb
+c:\Users\IET\Desktop\Practical\HMSSolution\BLL\obj\Debug\net8.0\ref\BLL.dll
+c:\Users\IET\Desktop\Practical\HMSSolution\BLL\bin\Debug\net8.0\BOL.dll
+c:\Users\IET\Desktop\Practical\HMSSolution\BLL\bin\Debug\net8.0\DAL.dll
+c:\Users\IET\Desktop\Practical\HMSSolution\BLL\bin\Debug\net8.0\BOL.pdb
+c:\Users\IET\Desktop\Practical\HMSSolution\BLL\bin\Debug\net8.0\DAL.pdb
+c:\Users\IET\Desktop\Practical\HMSSolution\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+c:\Users\IET\Desktop\Practical\HMSSolution\BLL\obj\Debug\net8.0\BLL.csproj.CopyComplete

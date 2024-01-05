@@ -1,0 +1,9 @@
+@using BOL;
+<a href="/">Home</a>
+@{
+    Employee emp1 = (Employee)ViewData["Employee"];
+    <td>@emp1.Id</td>
+    <td>@emp1.Name</td>
+    <td>@emp1.Email</td>
+    <td>@emp1.Contact</td>
+}

@@ -1,0 +1,50 @@
+﻿@using BOL;
+@{
+    ViewData["Title"] = "Home Page";
+}
+<a href="/Home/GetById">GetById</a>
+<div >
+    <h1 class="display-4">List of Employees</h1>
+    @{
+        List<Employee> elist = (List<Employee>)ViewData["Employees"];
+            <table border="2">
+                <thead>
+                    <tr>
+                        <td>ID</td>
+                        <td>Name</td>
+                        <td>Email</td>
+                        <td>Contact</td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach(Employee emp in elist){
+                        <tr>
+                            <td>@emp.Id</td>
+                            <td>@emp.Name</td>
+                            <td>@emp.Email</td>
+                            <td>@emp.Contact</td>
+                            <td><a asp-controller="Home" asp-action="Update">Update</a></td>
+                            <td><a asp-controller="Home" asp-action="Delete">Delete</a></td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+    }
+</div>
+@* <li>
+     @Html.ActionLink("Clients", "Index", "User", new { @class = "elements" }, null)
+</li>
+<a href="@Url.Action("Index", null, new { area = string.Empty, controller = "User" }, Request.Url.Scheme)">
+     <span>Clients</span>
+</a>
+
+<li>
+<a href="@Url.Action("Index", "Users")" class="elements"><span>Clients</span></a>
+</li>
+
+
+Try the following:
+
+<a asp-controller="Users" asp-action="Index"></a> *@
