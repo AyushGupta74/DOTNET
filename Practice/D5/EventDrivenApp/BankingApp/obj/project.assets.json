@@ -27,19 +27,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\IET\\.nuget\\packages\\": {}
+    "/Users/ayushgupta/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\IET\\Desktop\\AY\\Sept23\\Practice\\D5\\EventDrivenApp\\BankingApp\\BankingApp.csproj",
+      "projectUniqueName": "/Users/ayushgupta/Downloads/GitHub/DOTNET/Practice/D5/EventDrivenApp/BankingApp/BankingApp.csproj",
       "projectName": "BankingApp",
-      "projectPath": "c:\\Users\\IET\\Desktop\\AY\\Sept23\\Practice\\D5\\EventDrivenApp\\BankingApp\\BankingApp.csproj",
-      "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\IET\\Desktop\\AY\\Sept23\\Practice\\D5\\EventDrivenApp\\BankingApp\\obj\\",
+      "projectPath": "/Users/ayushgupta/Downloads/GitHub/DOTNET/Practice/D5/EventDrivenApp/BankingApp/BankingApp.csproj",
+      "packagesPath": "/Users/ayushgupta/.nuget/packages/",
+      "outputPath": "/Users/ayushgupta/Downloads/GitHub/DOTNET/Practice/D5/EventDrivenApp/BankingApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\IET\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/ayushgupta/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -51,8 +51,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "c:\\Users\\IET\\Desktop\\AY\\Sept23\\Practice\\D5\\EventDrivenApp\\BankLibraries\\BankLibraries.csproj": {
-              "projectPath": "c:\\Users\\IET\\Desktop\\AY\\Sept23\\Practice\\D5\\EventDrivenApp\\BankLibraries\\BankLibraries.csproj"
+            "/Users/ayushgupta/Downloads/GitHub/DOTNET/Practice/D5/EventDrivenApp/BankLibraries/BankLibraries.csproj": {
+              "projectPath": "/Users/ayushgupta/Downloads/GitHub/DOTNET/Practice/D5/EventDrivenApp/BankLibraries/BankLibraries.csproj"
             }
           }
         }
@@ -82,7 +82,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
