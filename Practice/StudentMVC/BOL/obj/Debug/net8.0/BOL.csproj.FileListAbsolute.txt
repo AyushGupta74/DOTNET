@@ -1,0 +1,12 @@
+/Users/ayushgupta/Downloads/GitHub/DOTNET/Practice/StudentMVC/BOL/bin/Debug/net8.0/BOL.deps.json
+/Users/ayushgupta/Downloads/GitHub/DOTNET/Practice/StudentMVC/BOL/bin/Debug/net8.0/BOL.dll
+/Users/ayushgupta/Downloads/GitHub/DOTNET/Practice/StudentMVC/BOL/bin/Debug/net8.0/BOL.pdb
+/Users/ayushgupta/Downloads/GitHub/DOTNET/Practice/StudentMVC/BOL/obj/Debug/net8.0/BOL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ayushgupta/Downloads/GitHub/DOTNET/Practice/StudentMVC/BOL/obj/Debug/net8.0/BOL.AssemblyInfoInputs.cache
+/Users/ayushgupta/Downloads/GitHub/DOTNET/Practice/StudentMVC/BOL/obj/Debug/net8.0/BOL.AssemblyInfo.cs
+/Users/ayushgupta/Downloads/GitHub/DOTNET/Practice/StudentMVC/BOL/obj/Debug/net8.0/BOL.csproj.CoreCompileInputs.cache
+/Users/ayushgupta/Downloads/GitHub/DOTNET/Practice/StudentMVC/BOL/obj/Debug/net8.0/BOL.sourcelink.json
+/Users/ayushgupta/Downloads/GitHub/DOTNET/Practice/StudentMVC/BOL/obj/Debug/net8.0/BOL.dll
+/Users/ayushgupta/Downloads/GitHub/DOTNET/Practice/StudentMVC/BOL/obj/Debug/net8.0/refint/BOL.dll
+/Users/ayushgupta/Downloads/GitHub/DOTNET/Practice/StudentMVC/BOL/obj/Debug/net8.0/BOL.pdb
+/Users/ayushgupta/Downloads/GitHub/DOTNET/Practice/StudentMVC/BOL/obj/Debug/net8.0/ref/BOL.dll

@@ -1,0 +1,16 @@
+/Users/ayushgupta/Downloads/GitHub/DOTNET/Practice/StudentMVC/DAL/bin/Debug/net8.0/DAL.deps.json
+/Users/ayushgupta/Downloads/GitHub/DOTNET/Practice/StudentMVC/DAL/bin/Debug/net8.0/DAL.dll
+/Users/ayushgupta/Downloads/GitHub/DOTNET/Practice/StudentMVC/DAL/bin/Debug/net8.0/DAL.pdb
+/Users/ayushgupta/Downloads/GitHub/DOTNET/Practice/StudentMVC/DAL/obj/Debug/net8.0/DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ayushgupta/Downloads/GitHub/DOTNET/Practice/StudentMVC/DAL/obj/Debug/net8.0/DAL.AssemblyInfoInputs.cache
+/Users/ayushgupta/Downloads/GitHub/DOTNET/Practice/StudentMVC/DAL/obj/Debug/net8.0/DAL.AssemblyInfo.cs
+/Users/ayushgupta/Downloads/GitHub/DOTNET/Practice/StudentMVC/DAL/obj/Debug/net8.0/DAL.csproj.CoreCompileInputs.cache
+/Users/ayushgupta/Downloads/GitHub/DOTNET/Practice/StudentMVC/DAL/obj/Debug/net8.0/DAL.sourcelink.json
+/Users/ayushgupta/Downloads/GitHub/DOTNET/Practice/StudentMVC/DAL/obj/Debug/net8.0/DAL.dll
+/Users/ayushgupta/Downloads/GitHub/DOTNET/Practice/StudentMVC/DAL/obj/Debug/net8.0/refint/DAL.dll
+/Users/ayushgupta/Downloads/GitHub/DOTNET/Practice/StudentMVC/DAL/obj/Debug/net8.0/DAL.pdb
+/Users/ayushgupta/Downloads/GitHub/DOTNET/Practice/StudentMVC/DAL/obj/Debug/net8.0/ref/DAL.dll
+/Users/ayushgupta/Downloads/GitHub/DOTNET/Practice/StudentMVC/DAL/obj/Debug/net8.0/DAL.csproj.AssemblyReference.cache
+/Users/ayushgupta/Downloads/GitHub/DOTNET/Practice/StudentMVC/DAL/bin/Debug/net8.0/BOL.dll
+/Users/ayushgupta/Downloads/GitHub/DOTNET/Practice/StudentMVC/DAL/bin/Debug/net8.0/BOL.pdb
+/Users/ayushgupta/Downloads/GitHub/DOTNET/Practice/StudentMVC/DAL/obj/Debug/net8.0/DAL.csproj.CopyComplete
