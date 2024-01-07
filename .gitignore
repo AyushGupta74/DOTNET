@@ -1,1 +1,5 @@
 .DS_Store
+# Ignore any files in /bin and /obj Folders
+**/bin/*
+**/obj/*
+node_nodules/
